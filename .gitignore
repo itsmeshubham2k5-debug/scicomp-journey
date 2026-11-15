@@ -1,0 +1,4 @@
+_pycache_/
+*.log
+.DS_Store
+test-output/ git add .gitignore
